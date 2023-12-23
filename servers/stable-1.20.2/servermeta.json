@@ -1,1 +1,21 @@
-{"$schema":"file:///C:/Users/fury/Documents/GitHub/shiny-versions/schemas/ServerMetaSchema.schema.json","meta":{"version":"1.0.0","name":"Minecraft 1.20.2","description":"Latest & Stable version of Minecraft.","icon":"https://shinyclient.github.io/logo.png","address":"mc.hypixel.net","discord":{"shortId":"Minecraft 1.20.2","largeImageText":"Minecraft 1.20.2","largeImageKey":"1.20.2"},"mainServer":false,"autoconnect":false},"untrackedFiles":[]}
+{
+  "$schema": "file:///C:/Users/fury/Documents/GitHub/shiny-versions/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "stable (Minecraft 1.20.2)",
+    "description": "stable Running Minecraft 1.20.2",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.15.0"
+  },
+  "untrackedFiles": []
+}
