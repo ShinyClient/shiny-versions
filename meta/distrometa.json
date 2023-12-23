@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/fury/Documents/GitHub/shiny-versions/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://shiny.bishalraj.com.np/feed/",
+    "discord": {
+      "clientId": "1170325502448369674",
+      "smallImageText": "Shiny",
+      "smallImageKey": "logo"
+    }
+  }
+}
